@@ -1,1 +1,1 @@
-this a recipes project thats show cases different recipes .Also I'm using HTML for this project .# odin_recipes
+A simple, clean recipe directory built as part of The Odin Project curriculum. This application showcases foundational web development skills by organizing culinary recipes into accessible, dietary-specific categories.
